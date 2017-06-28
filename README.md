@@ -1,0 +1,1 @@
+A part of project originating from The Odin Project Web Development Curriculum (http://www.theodinproject.com/web-development-101/html-css). This involves making an identical looking homepage to Google's official homepage.
